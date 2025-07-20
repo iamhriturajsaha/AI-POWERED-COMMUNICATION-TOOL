@@ -1,16 +1,15 @@
+# 🤖 InstaGenie : AI-Powered Communication Tool
 
-# 🤖 INSTAGENIE : AI-POWERED COMMUNICATION TOOL
-
-InstaGenie is an **AI-Powered Instagram automation tool** designed to revolutionize how individuals and brands engage on social media. By automating likes, comments, and post scheduling using advanced **Natural Language Processing (NLP)** and **Deep Learning** models, InstaGenie helps enhance user engagement, reduce manual effort, and maintain a consistent social presence.
+InstaGenie is an **AI-Powered Instagram Automation Tool** designed to revolutionize how individuals and brands engage on social media. By automating likes, comments, and post scheduling using advanced **Natural Language Processing (NLP)** and **Deep Learning** models, InstaGenie helps enhance user engagement, reduce manual effort, and maintain a consistent social presence.
 
 ---
 
 ## 🚀 Project Highlights
 
-- 🔁 **Automates Routine Tasks:** Handles likes, comments, and scheduling of posts automatically.
+- 🔁 **Automates Routine Tasks:** Handles likes, comments and scheduling of posts automatically.
 - 🧠 **Context-Aware Interactions:** Uses **BiLSTM** and sentiment analysis for contextually relevant responses.
 - 🌐 **User-Centric Customization:** Customizes interaction behavior based on individual branding and preferences.
-- 📊 **Built with Real-World NLP Tools:** Implements state-of-the-art models like **BERT**, **DistilBERT**, and **RoBERTa**.
+- 📊 **Built with Real-World NLP Tools:** Implements state-of-the-art models like **BERT**, **DistilBERT** and **RoBERTa**.
 - 💬 **Emotion Identification:** Recognizes emotional tone and generates responses accordingly.
 
 ---
@@ -27,9 +26,9 @@ InstaGenie is an **AI-Powered Instagram automation tool** designed to revolution
 ## 🧩 System Architecture
 
 ### 1. **Preprocessing Module**
-Cleans raw user text input using:
+Cleans raw user text input using -
 - Text normalization, tokenization, stop-word removal
-- Lemmatization, synonym handling, and padding
+- Lemmatization, synonym handling and padding
 
 ### 2. **NLP Analysis & Deep Learning Module**
 - Sentiment classification using **BiLSTM**
@@ -48,22 +47,22 @@ Cleans raw user text input using:
 
 ## 🛠 Tech Stack
 
-### ⚙️ Backend:
+### ⚙️ Backend -
 - Python, Django/Node.js  
 - TensorFlow, PyTorch  
 - Hugging Face Transformers
 
-### 💻 Frontend:
+### 💻 Frontend -
 - HTML/CSS, JavaScript
 
-### 🧠 ML Tools:
+### 🧠 ML Tools -
 - BERT, DistilBERT, RoBERTa  
 - BiLSTM, Scikit-learn
 
-### 🗄️ Database:
+### 🗄️ Database -
 - MySQL / PostgreSQL
 
-### ☁️ Deployment:
+### ☁️ Deployment -
 - AWS / Google Cloud / Azure  
 - Linux (Ubuntu/CentOS)
 
@@ -79,11 +78,11 @@ Cleans raw user text input using:
 
 ## 📝 Paper Publication
 
-- **Presented at:** 13th International Conference on Contemporary Engineering and Technology (ICCET 2025)  
-- **Journal:** *International Journal of Science and Innovative Engineering & Technology (IJSIET)*  
-- **Status:** ✅ **Accepted and Awaiting Publication**  
-- **Indexing:** Google Scholar  
-- **Submission Date:** 28/03/2025  
+- **Presented at -** 13th International Conference on Contemporary Engineering and Technology (ICCET 2025)  
+- **Journal -** *International Journal of Science and Innovative Engineering & Technology (IJSIET)*  
+- **Status -** ✅ **Accepted and Awaiting Publication**  
+- **Indexing -** Google Scholar  
+- **Submission Date -** 28/03/2025  
 
 ---
 
@@ -101,7 +100,7 @@ Cleans raw user text input using:
 We extend our heartfelt thanks to:
 - Our guide **Ms. G. Kavitha, M.E., (Ph.D.)**  
 - The Department of Computer Science, Sathyabama University  
-- Panel members, professors, and technical staff  
+- Panel members, professors and technical staff  
 
 ---
 
