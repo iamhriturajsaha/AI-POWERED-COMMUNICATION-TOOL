@@ -6,11 +6,11 @@ InstaGenie is an **AI-Powered Instagram Automation Tool** designed to revolution
 
 ## 🚀 Project Highlights
 
-- 🔁 **Automates Routine Tasks:** Handles likes, comments and scheduling of posts automatically.
-- 🧠 **Context-Aware Interactions:** Uses **BiLSTM** and sentiment analysis for contextually relevant responses.
-- 🌐 **User-Centric Customization:** Customizes interaction behavior based on individual branding and preferences.
-- 📊 **Built with Real-World NLP Tools:** Implements state-of-the-art models like **BERT**, **DistilBERT** and **RoBERTa**.
-- 💬 **Emotion Identification:** Recognizes emotional tone and generates responses accordingly.
+- 🔁 **Automates Routine Tasks -** Handles likes, comments and scheduling of posts automatically.
+- 🧠 **Context-Aware Interactions -** Uses **BiLSTM** and sentiment analysis for contextually relevant responses.
+- 🌐 **User-Centric Customization -** Customizes interaction behavior based on individual branding and preferences.
+- 📊 **Built with Real-World NLP Tools -** Implements state-of-the-art models like **BERT**, **DistilBERT** and **RoBERTa**.
+- 💬 **Emotion Identification -** Recognizes emotional tone and generates responses accordingly.
 
 ---
 
@@ -97,7 +97,7 @@ Cleans raw user text input using -
 
 ## 🙏 Acknowledgements
 
-We extend our heartfelt thanks to:
+We extend our heartfelt thanks to -
 - Our guide **Ms. G. Kavitha, M.E., (Ph.D.)**  
 - The Department of Computer Science, Sathyabama University  
 - Panel members, professors and technical staff  
