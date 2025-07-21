@@ -1,6 +1,6 @@
 # 🤖 InstaGenie : AI-Powered Communication Tool
 
-InstaGenie is an **AI-Powered Instagram Automation Tool** designed to revolutionize how individuals and brands engage on social media. By automating likes, comments, and post scheduling using advanced **Natural Language Processing (NLP)** and **Deep Learning** models, InstaGenie helps enhance user engagement, reduce manual effort, and maintain a consistent social presence.
+InstaGenie is an **AI-Powered Instagram Automation Tool** designed to revolutionize how individuals and brands engage on social media. By automating likes, comments, and post scheduling using advanced **Natural Language Processing (NLP)** and **Deep Learning** models, InstaGenie helps enhance user engagement, reduce manual effort and maintain a consistent social presence.
 
 ---
 
